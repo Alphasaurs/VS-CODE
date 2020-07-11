@@ -1,0 +1,8 @@
+1.download mingw
+2.set path
+3.download c/c++ extension in vs code
+4.download code runner extension in vs code.
+Note 1-clear previous output in code runner settings
+Note 2-
+g++ filename.cpp //generate exe
+filename.exe //generate output
